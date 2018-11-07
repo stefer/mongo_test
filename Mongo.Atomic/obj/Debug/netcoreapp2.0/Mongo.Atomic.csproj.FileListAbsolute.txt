@@ -1,0 +1,11 @@
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.AssemblyInfoInputs.cache
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.AssemblyInfo.cs
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\bin\Debug\netcoreapp2.0\Mongo.Atomic.deps.json
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\bin\Debug\netcoreapp2.0\Mongo.Atomic.runtimeconfig.json
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\bin\Debug\netcoreapp2.0\Mongo.Atomic.runtimeconfig.dev.json
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\bin\Debug\netcoreapp2.0\Mongo.Atomic.dll
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\bin\Debug\netcoreapp2.0\Mongo.Atomic.pdb
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.dll
+C:\Users\Stefan\Source\Repos\mongo_test\Mongo.Atomic\obj\Debug\netcoreapp2.0\Mongo.Atomic.pdb
